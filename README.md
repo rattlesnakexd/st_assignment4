@@ -49,3 +49,7 @@ Build:
 Run:
 
 ![alt text](https://github.com/rattlesnakexd/st_assignment4/blob/main/img3.png?raw=true)
+
+## Integrating Unity test framework with LambdaTest:
+
+A cross-browser testing platform called LambdaTest is accessible online. It makes it easier to test web and mobile applications manually and automatically. The support for real devices, well-known languages, and frameworks for simple testing are the key advantages of using LambdaTest for your Unity testing. We don't have to spend a lot of money on expensive systems or devices because we can finish Unity testing rapidly without doing so. Mobile games created using Unity are no different. The tester can combine the capabilities of UTF (Unity test framework) with LambdaTest's devices with the help of the Unity test framework in order to release a mobile application that is free of bugs.
