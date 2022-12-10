@@ -22,10 +22,15 @@ Unity's unique attributes are what give it its strength and popularity. Each of 
 
 Cross-platform development is popular among those who are working on it, whether it be in game creation, mobile app testing, or both. The concept of "coding once and running on various platforms" helps developers and testers save time, money, and labor-intensive, manual effort.
 When developers write one code for everyone, Unity does bring up a few issues.
-• Keyboards and Touch
-• Mouse click and Touch.
-• PC and mobile sensors
-• CPU management
+
+1. Keyboards and Touch
+2. Mouse click and Touch.
+3. PC and mobile sensors
+4. CPU management
+
+### Multiple platform support:
+
+Unity has opened the road into numerous industries that require animation, graphics, gaming, etc., as was discussed in the preceding sections. Unity is a better place to start if you're a beginner because of its widespread acceptance. It would aid in the creation of a wide range of apps and the exploration of numerous career opportunities because its knowledge could be applied to the various platforms that Unity supports.
 
 ## Test Runner API:
 
